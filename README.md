@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github.gif" alt="GIF" width="250" />
+  <img src="assets/snorlax.gif" alt="GIF" width="250" />
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://james86.dev/about">James</a>!</h1>
