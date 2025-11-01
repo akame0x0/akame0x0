@@ -2,9 +2,9 @@
   <img src="assets/github.gif" alt="GIF" width="250" />
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://james86.dev/about">James</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://akame0x0.dev/about">James</a>!</h1>
 <div align="center">
-  <a href="https://www.ko-fi.com/yun0x0">
+  <a href="https://www.ko-fi.com/akame0x0">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="100" alt="Ko-fi" />
   </a>
 </div>
@@ -14,14 +14,14 @@
     <p><b>Welcome to my GitHub profile</b></p>
     <p>I'm a developer researching AI, Machine Learning, and Game Development ☆</p>
     <p>
-      <a href="https://yun0x0.dev/about">Website</a> | 
-      <a href="https://twitter.com/yun0x0">Twitter</a> | 
-      <a href="https://discordapp.com/users/yun0x0">Discord</a> | 
-      <a href="https://linkedin.com/in/yun0x0">LinkedIn</a>
+      <a href="https://akame0x0.dev/about">Website</a> | 
+      <a href="https://twitter.com/akame0x0">Twitter</a> | 
+      <a href="https://discordapp.com/users/akame0x0">Discord</a> | 
+      <a href="https://linkedin.com/in/akame0x0">LinkedIn</a>
     </p>
   </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yun0x0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akame0x0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="200" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
