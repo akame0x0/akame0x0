@@ -21,9 +21,13 @@
     </p>
   </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akame0x0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="200" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=akame0x0&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" 
+    height="200" 
+    alt="GitHub Stats" 
+  />
 </p>
+
 
 
 <h1 align="center">Tech Stack</h1>
